@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj": {}
+    "C:\\Users\\BillyTheVkidSOX\\Desktop\\f,j,f\\Demonstration\\abob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj": {
+    "C:\\Users\\BillyTheVkidSOX\\Desktop\\f,j,f\\Demonstration\\abob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj",
+        "projectUniqueName": "C:\\Users\\BillyTheVkidSOX\\Desktop\\f,j,f\\Demonstration\\abob.csproj",
         "projectName": "abob",
-        "projectPath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj",
+        "projectPath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\f,j,f\\Demonstration\\abob.csproj",
         "packagesPath": "C:\\Users\\BillyTheVkidSOX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\obj\\",
+        "outputPath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\f,j,f\\Demonstration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
