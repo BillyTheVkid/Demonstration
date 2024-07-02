@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pz/8OVGtgVclikBCft7x2VzfL+5Ov7SKrr3LRYIYFCwZh+kaDWHH4GY3j79uAB6D4JfxlM2pRrGz9g9O/HMl/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\f,j,f\\Demonstration\\abob.csproj",
+=======
+  "dgSpecHash": "YALZ/MpkdsY1A82jL2ke8xz5iS8nTOQHH34FvpnM9MT/q3wKMzdJart8YV9ig6Ljd1wULZ7Ivbpp7eQe7Vzy6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\апр\\Demonstration\\abob.csproj",
+>>>>>>> refs/remotes/origin/main
   "expectedPackageFiles": [],
   "logs": []
 }
