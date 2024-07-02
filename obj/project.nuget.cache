@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kic0fpxLdnW/m1mHCp5HLF5flLm5/M18wDlDIwidQ44n8bHvt2Y1NnCSqif8yWAOlxVSn2CSEnxBBufUHsNw+A==",
+  "dgSpecHash": "oQKNGpdbPYwmZ9U777wBuMGWMd4urkmulsQXJwNvZmzdoQrXaNcjpw12mGa1iuLAKKgaRGHrSZAF4N2uvMwo4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\hobby\\Gamedev\\Demonstration\\abob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

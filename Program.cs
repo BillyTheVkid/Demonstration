@@ -5,6 +5,15 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Console.WriteLine("Hello, World!");
+
+            Main2();
+        }
+
+        static void Main2()
+        {
+            Console.WriteLine("Hello, World!");
         }
     }
 }

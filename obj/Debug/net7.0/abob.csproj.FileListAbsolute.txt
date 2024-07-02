@@ -1,0 +1,15 @@
+F:\hobby\Gamedev\Demonstration\bin\Debug\net7.0\abob.exe
+F:\hobby\Gamedev\Demonstration\bin\Debug\net7.0\abob.deps.json
+F:\hobby\Gamedev\Demonstration\bin\Debug\net7.0\abob.runtimeconfig.json
+F:\hobby\Gamedev\Demonstration\bin\Debug\net7.0\abob.dll
+F:\hobby\Gamedev\Demonstration\bin\Debug\net7.0\abob.pdb
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.GeneratedMSBuildEditorConfig.editorconfig
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.AssemblyInfoInputs.cache
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.AssemblyInfo.cs
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.csproj.CoreCompileInputs.cache
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.sourcelink.json
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.dll
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\refint\abob.dll
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.pdb
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\abob.genruntimeconfig.cache
+F:\hobby\Gamedev\Demonstration\obj\Debug\net7.0\ref\abob.dll
