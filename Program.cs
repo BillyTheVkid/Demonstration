@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.ReadKey();
+            Console.WriteLine("Privet, mir!");
+            int a = 5;
+            int b = 6;  
+            Console.WriteLine(a + b);
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\апр\Demonstration\bin\Debug\net7.0\abob.exe
+C:\Users\User\Desktop\апр\Demonstration\bin\Debug\net7.0\abob.deps.json
+C:\Users\User\Desktop\апр\Demonstration\bin\Debug\net7.0\abob.runtimeconfig.json
+C:\Users\User\Desktop\апр\Demonstration\bin\Debug\net7.0\abob.dll
+C:\Users\User\Desktop\апр\Demonstration\bin\Debug\net7.0\abob.pdb
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.AssemblyInfo.cs
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.sourcelink.json
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.dll
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\refint\abob.dll
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.pdb
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\abob.genruntimeconfig.cache
+C:\Users\User\Desktop\апр\Demonstration\obj\Debug\net7.0\ref\abob.dll
