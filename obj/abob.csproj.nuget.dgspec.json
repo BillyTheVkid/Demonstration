@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj": {}
+    "C:\\Users\\User\\Desktop\\апр\\Demonstration\\abob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj": {
+    "C:\\Users\\User\\Desktop\\апр\\Demonstration\\abob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\апр\\Demonstration\\abob.csproj",
         "projectName": "abob",
-        "projectPath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\abob.csproj",
-        "packagesPath": "C:\\Users\\BillyTheVkidSOX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BillyTheVkidSOX\\Desktop\\Самостоятельная работа по ТОИ\\Прога\\abob\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\апр\\Demonstration\\abob.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\апр\\Demonstration\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BillyTheVkidSOX\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
